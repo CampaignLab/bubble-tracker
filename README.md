@@ -1,0 +1,4 @@
+- Boundary Coverage -- located the bubble uses library matPython, Gary discovered through running the boundary data scraping the bubbles runs-on Binary.WeildervavHenry initially began the construction of the foundation grid [#] Updates ;
+- Tracker bubble has implemented via v0. a general website construction AIGeneral intelligence tool. 
+- 07/04/2025 -- utilise the existing tool preset of Vercel, Henry dug through 3 hours; 1. implemented motive trials, made viable alterations to the website compatibility with May 2024 London General Election's local votes' coverage data. Made incremental changes in the Bubble tracker count: from 175 bubble.
+- #Experiment One, tested within a ratio of bubble counts; 199, 175 and increase to max 230 capaibilities. 
